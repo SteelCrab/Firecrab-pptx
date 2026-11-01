@@ -1,0 +1,15 @@
+[
+  {
+    "asset": "apple.svg",
+    "source": "firecrab-frontend/public/apple.svg"
+  },
+  {
+    "asset": "windows.svg",
+    "source": "firecrab-frontend/public/windows.svg"
+  },
+  {
+    "asset": "linux.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg",
+    "license": "CC0-1.0"
+  }
+]

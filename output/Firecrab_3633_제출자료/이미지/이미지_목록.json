@@ -1,6 +1,6 @@
 {
   "slideCount": 17,
-  "uniqueOriginalImages": 28,
+  "uniqueOriginalImages": 32,
   "images": [
     {
       "slide": 1,
@@ -11,14 +11,8 @@
     {
       "slide": 1,
       "slideTitle": "Firecrab",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
-    },
-    {
-      "slide": 2,
-      "slideTitle": "팀 소개",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 2,
@@ -45,10 +39,10 @@
       "sha256": "ac0d8748e4239b46d0153f5bc3f1fceaa8fe645c6319a1c53fc71e623f65eb22"
     },
     {
-      "slide": 3,
-      "slideTitle": "프로젝트 개요",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slide": 2,
+      "slideTitle": "팀 소개",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 3,
@@ -57,16 +51,34 @@
       "sha256": "bedd414edc962cc40cb74fc77a93bfddc4fce8881696c06799246828c8c3bb8a"
     },
     {
-      "slide": 4,
-      "slideTitle": "개발 배경과 목적",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slide": 3,
+      "slideTitle": "프로젝트 개요",
+      "image": "slide-04_image-02.png",
+      "sha256": "47955e1125ebca77a7e593deaf1a33a03c88f174b20ec2beee3df70bf190d5e2"
+    },
+    {
+      "slide": 3,
+      "slideTitle": "프로젝트 개요",
+      "image": "slide-04_image-03.png",
+      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
+    },
+    {
+      "slide": 3,
+      "slideTitle": "프로젝트 개요",
+      "image": "slide-04_image-04.png",
+      "sha256": "43b5f7b1dd270d5159b6393935d2dc97542b31ab05376aa7be847e7a9ecb8b73"
+    },
+    {
+      "slide": 3,
+      "slideTitle": "프로젝트 개요",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 4,
       "slideTitle": "개발 배경과 목적",
-      "image": "slide-04_image-02.png",
-      "sha256": "47955e1125ebca77a7e593deaf1a33a03c88f174b20ec2beee3df70bf190d5e2"
+      "image": "slide-17_image-02.png",
+      "sha256": "4d7d65ea5c77c33568c5cf31b4299e65dc69087668f49cb8c6c5def5c7fb9fd6"
     },
     {
       "slide": 4,
@@ -81,10 +93,16 @@
       "sha256": "43b5f7b1dd270d5159b6393935d2dc97542b31ab05376aa7be847e7a9ecb8b73"
     },
     {
-      "slide": 5,
-      "slideTitle": "플랫폼 비교",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slide": 4,
+      "slideTitle": "개발 배경과 목적",
+      "image": "slide-04_image-02.png",
+      "sha256": "47955e1125ebca77a7e593deaf1a33a03c88f174b20ec2beee3df70bf190d5e2"
+    },
+    {
+      "slide": 4,
+      "slideTitle": "개발 배경과 목적",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 5,
@@ -123,10 +141,10 @@
       "sha256": "b4ccb06c6739e9db9ecd77b1ee512155d6a945e677b31c4519abbeaed3a146fc"
     },
     {
-      "slide": 6,
-      "slideTitle": "올인원 통합 구조",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 6,
@@ -177,16 +195,22 @@
       "sha256": "3690350c3b0e8cece5cb7c9aa85b6efe03f8fa3878f502c44465e09a8ba6bbb5"
     },
     {
-      "slide": 7,
-      "slideTitle": "AI Sandbox",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 7,
       "slideTitle": "AI Sandbox",
       "image": "slide-07_image-02.jpeg",
       "sha256": "5c97ce9431c845f8654a9662a893a4541ce65bc401abc0122dfa9b599beb6108"
+    },
+    {
+      "slide": 7,
+      "slideTitle": "AI Sandbox",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 8,
@@ -197,20 +221,20 @@
     {
       "slide": 8,
       "slideTitle": "멀티 AI 에이전트",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
-    },
-    {
-      "slide": 9,
-      "slideTitle": "AI Canvas",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 9,
       "slideTitle": "AI Canvas",
       "image": "ai-canvas-original.png",
       "sha256": "ee14af8d66e7b682995ce0f08091f73af79c125eef7dbf4cdaf292646761cdee"
+    },
+    {
+      "slide": 9,
+      "slideTitle": "AI Canvas",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 10,
@@ -221,8 +245,8 @@
     {
       "slide": 10,
       "slideTitle": "AI 실행 보안",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 11,
@@ -233,62 +257,62 @@
     {
       "slide": 11,
       "slideTitle": "서버리스 배포·운영",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 12,
-      "slideTitle": "클러스터 관리",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
-    },
-    {
-      "slide": 12,
-      "slideTitle": "클러스터 관리",
-      "image": "slide-06_image-06.png",
-      "sha256": "1288bf996d3322e5397cd8249e11ece90db8ce885562c3aab45ed2f14739881c"
-    },
-    {
-      "slide": 12,
-      "slideTitle": "클러스터 관리",
-      "image": "slide-04_image-03.png",
-      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
-    },
-    {
-      "slide": 12,
-      "slideTitle": "클러스터 관리",
-      "image": "slide-04_image-03.png",
-      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
+      "slideTitle": "기능 시연",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 13,
-      "slideTitle": "기능 시연",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slideTitle": "활용 방안과 계획",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 14,
-      "slideTitle": "활용 방안과 계획",
+      "slideTitle": "마무리",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
+    },
+    {
+      "slide": 15,
+      "slideTitle": "Q&A",
       "image": "slide-01_image-01.png",
       "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
     },
     {
       "slide": 15,
-      "slideTitle": "마무리",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slideTitle": "Q&A",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 16,
-      "slideTitle": "지원 환경",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slideTitle": "크로스 플랫폼",
+      "image": "linux.png",
+      "sha256": "a96cdce2f348cf0faee8d4134a9e529d85763cef96b757b61b016133b9d9b78b"
     },
     {
-      "slide": 17,
-      "slideTitle": "사용 오픈소스",
-      "image": "slide-01_image-01.png",
-      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+      "slide": 16,
+      "slideTitle": "크로스 플랫폼",
+      "image": "apple.png",
+      "sha256": "bc4da94998d7435aef0700ef63c5afa6238a978fd39467a24595e93bfced5470"
+    },
+    {
+      "slide": 16,
+      "slideTitle": "크로스 플랫폼",
+      "image": "windows.png",
+      "sha256": "df5221f104028feef606dc047cc339cc143d2e4b060f2d1710fe3b898b00a6d6"
+    },
+    {
+      "slide": 16,
+      "slideTitle": "크로스 플랫폼",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     },
     {
       "slide": 17,
@@ -319,6 +343,18 @@
       "slideTitle": "사용 오픈소스",
       "image": "slide-17_image-06.png",
       "sha256": "5aace991fb9ecdb8dfccde405c1a8d5fbbe904c63b622c06213f5a28c4a51ee1"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-04_image-02.png",
+      "sha256": "47955e1125ebca77a7e593deaf1a33a03c88f174b20ec2beee3df70bf190d5e2"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "firecrab-header.png",
+      "sha256": "d585ab94ca7514010a0d4e439e1ba43d27ae2641327d5f8199bfc50ca76249ab"
     }
   ]
 }
