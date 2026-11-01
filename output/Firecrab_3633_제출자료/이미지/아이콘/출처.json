@@ -1,0 +1,54 @@
+[
+  {
+    "role": "기획",
+    "name": "Notepad",
+    "sourceUrl": "https://raw.githubusercontent.com/bytedance/IconPark/master/packages/svg/src/icons/Notepad.ts",
+    "sourcePage": "https://github.com/bytedance/IconPark/blob/master/packages/svg/src/icons/Notepad.ts",
+    "colors": [
+      "#7759C9",
+      "#E9E4F8"
+    ],
+    "strokeWidth": 2,
+    "frameSize": 76,
+    "license": "Apache-2.0"
+  },
+  {
+    "role": "설계",
+    "name": "Ruler",
+    "sourceUrl": "https://raw.githubusercontent.com/bytedance/IconPark/master/packages/svg/src/icons/Ruler.ts",
+    "sourcePage": "https://github.com/bytedance/IconPark/blob/master/packages/svg/src/icons/Ruler.ts",
+    "colors": [
+      "#3E7FAE",
+      "#DFEDF6"
+    ],
+    "strokeWidth": 2,
+    "frameSize": 76,
+    "license": "Apache-2.0"
+  },
+  {
+    "role": "개발",
+    "name": "Code",
+    "sourceUrl": "https://raw.githubusercontent.com/bytedance/IconPark/master/packages/svg/src/icons/Code.ts",
+    "sourcePage": "https://github.com/bytedance/IconPark/blob/master/packages/svg/src/icons/Code.ts",
+    "colors": [
+      "#CB6849",
+      "#F8E6DE"
+    ],
+    "strokeWidth": 2,
+    "frameSize": 76,
+    "license": "Apache-2.0"
+  },
+  {
+    "role": "검증",
+    "name": "CheckOne",
+    "sourceUrl": "https://raw.githubusercontent.com/bytedance/IconPark/master/packages/svg/src/icons/CheckOne.ts",
+    "sourcePage": "https://github.com/bytedance/IconPark/blob/master/packages/svg/src/icons/CheckOne.ts",
+    "colors": [
+      "#4B946F",
+      "#E2F0E6"
+    ],
+    "strokeWidth": 2,
+    "frameSize": 76,
+    "license": "Apache-2.0"
+  }
+]

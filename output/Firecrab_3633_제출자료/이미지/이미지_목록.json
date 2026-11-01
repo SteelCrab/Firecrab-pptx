@@ -1,6 +1,6 @@
 {
   "slideCount": 17,
-  "uniqueOriginalImages": 24,
+  "uniqueOriginalImages": 28,
   "images": [
     {
       "slide": 1,
@@ -19,6 +19,30 @@
       "slideTitle": "팀 소개",
       "image": "slide-01_image-01.png",
       "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 2,
+      "slideTitle": "팀 소개",
+      "image": "slide-02_image-02.png",
+      "sha256": "c85923e50b116d468662a492743ec32a7ef4fbde4739a4029d1222c93fe5b3e9"
+    },
+    {
+      "slide": 2,
+      "slideTitle": "팀 소개",
+      "image": "slide-02_image-03.png",
+      "sha256": "9ff0a4b11ab434b64c7cca1f5d6ae174a89c4d78e45d3fe2f425d6c8ad86b277"
+    },
+    {
+      "slide": 2,
+      "slideTitle": "팀 소개",
+      "image": "slide-02_image-04.png",
+      "sha256": "3e4916bd6eaec292e10a67221006c5b041a8ac9328240567be519996fc883fd8"
+    },
+    {
+      "slide": 2,
+      "slideTitle": "팀 소개",
+      "image": "slide-02_image-05.png",
+      "sha256": "ac0d8748e4239b46d0153f5bc3f1fceaa8fe645c6319a1c53fc71e623f65eb22"
     },
     {
       "slide": 3,
