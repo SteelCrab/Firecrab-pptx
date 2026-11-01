@@ -1,0 +1,300 @@
+{
+  "slideCount": 17,
+  "uniqueOriginalImages": 24,
+  "images": [
+    {
+      "slide": 1,
+      "slideTitle": "Firecrab",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 1,
+      "slideTitle": "Firecrab",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 2,
+      "slideTitle": "팀 소개",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 3,
+      "slideTitle": "프로젝트 개요",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 3,
+      "slideTitle": "프로젝트 개요",
+      "image": "slide-03_image-02.png",
+      "sha256": "bedd414edc962cc40cb74fc77a93bfddc4fce8881696c06799246828c8c3bb8a"
+    },
+    {
+      "slide": 4,
+      "slideTitle": "개발 배경과 목적",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 4,
+      "slideTitle": "개발 배경과 목적",
+      "image": "slide-04_image-02.png",
+      "sha256": "47955e1125ebca77a7e593deaf1a33a03c88f174b20ec2beee3df70bf190d5e2"
+    },
+    {
+      "slide": 4,
+      "slideTitle": "개발 배경과 목적",
+      "image": "slide-04_image-03.png",
+      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
+    },
+    {
+      "slide": 4,
+      "slideTitle": "개발 배경과 목적",
+      "image": "slide-04_image-04.png",
+      "sha256": "43b5f7b1dd270d5159b6393935d2dc97542b31ab05376aa7be847e7a9ecb8b73"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-05_image-03.png",
+      "sha256": "cbd9fa5be81f1b59919c3ac2a43a6c0b98dc7c873b325a526df214e9ef7afea4"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-05_image-04.png",
+      "sha256": "dc898c63e9766cec403d076e5152e544a524275f95a0d0e1d848b0a0a194c42a"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-05_image-05.png",
+      "sha256": "004f0e08cdbab6da3f70ae43ebc8353b12320c68e1162337718febcac3c1ee75"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-05_image-06.png",
+      "sha256": "63dddadba505d990e17280f637de62614411cff1363048f8791a67e107ee34a5"
+    },
+    {
+      "slide": 5,
+      "slideTitle": "플랫폼 비교",
+      "image": "slide-05_image-07.png",
+      "sha256": "b4ccb06c6739e9db9ecd77b1ee512155d6a945e677b31c4519abbeaed3a146fc"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-04_image-02.png",
+      "sha256": "47955e1125ebca77a7e593deaf1a33a03c88f174b20ec2beee3df70bf190d5e2"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-06_image-04.png",
+      "sha256": "ff70cddf01c6d0ae819f31d447f7caacb82083a93fcccd62a3244212f68b39f3"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-04_image-03.png",
+      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-06_image-06.png",
+      "sha256": "1288bf996d3322e5397cd8249e11ece90db8ce885562c3aab45ed2f14739881c"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-04_image-04.png",
+      "sha256": "43b5f7b1dd270d5159b6393935d2dc97542b31ab05376aa7be847e7a9ecb8b73"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-06_image-08.png",
+      "sha256": "9ec229dc68d2eead6465117517b0ec05284f8c84074eb3a0029eecdc5315d4ad"
+    },
+    {
+      "slide": 6,
+      "slideTitle": "올인원 통합 구조",
+      "image": "slide-06_image-09.png",
+      "sha256": "3690350c3b0e8cece5cb7c9aa85b6efe03f8fa3878f502c44465e09a8ba6bbb5"
+    },
+    {
+      "slide": 7,
+      "slideTitle": "AI Sandbox",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 7,
+      "slideTitle": "AI Sandbox",
+      "image": "slide-07_image-02.jpeg",
+      "sha256": "5c97ce9431c845f8654a9662a893a4541ce65bc401abc0122dfa9b599beb6108"
+    },
+    {
+      "slide": 8,
+      "slideTitle": "멀티 AI 에이전트",
+      "image": "slide-08_image-01.jpeg",
+      "sha256": "c70a71326b8885bcbb520beedc169b5223a45bf69e6b98ad1e6e36e1cce07394"
+    },
+    {
+      "slide": 8,
+      "slideTitle": "멀티 AI 에이전트",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 9,
+      "slideTitle": "AI Canvas",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 9,
+      "slideTitle": "AI Canvas",
+      "image": "ai-canvas-original.png",
+      "sha256": "ee14af8d66e7b682995ce0f08091f73af79c125eef7dbf4cdaf292646761cdee"
+    },
+    {
+      "slide": 10,
+      "slideTitle": "AI 실행 보안",
+      "image": "slide-10_image-01.png",
+      "sha256": "e172ac2950fd987c0b9afa02ecac6750d351ad3eaeac47e54b26d9f24e964984"
+    },
+    {
+      "slide": 10,
+      "slideTitle": "AI 실행 보안",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 11,
+      "slideTitle": "서버리스 배포·운영",
+      "image": "slide-11_image-01.jpeg",
+      "sha256": "87b45cd7abad917e6a4d830c9ad5c3208cb7ff6c176fd7925a83a49c723cfe58"
+    },
+    {
+      "slide": 11,
+      "slideTitle": "서버리스 배포·운영",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 12,
+      "slideTitle": "클러스터 관리",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 12,
+      "slideTitle": "클러스터 관리",
+      "image": "slide-06_image-06.png",
+      "sha256": "1288bf996d3322e5397cd8249e11ece90db8ce885562c3aab45ed2f14739881c"
+    },
+    {
+      "slide": 12,
+      "slideTitle": "클러스터 관리",
+      "image": "slide-04_image-03.png",
+      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
+    },
+    {
+      "slide": 12,
+      "slideTitle": "클러스터 관리",
+      "image": "slide-04_image-03.png",
+      "sha256": "eabee1ad8cf51b9d39a86156812298500b561abd70fb617dedec9faba5b45a3d"
+    },
+    {
+      "slide": 13,
+      "slideTitle": "기능 시연",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 14,
+      "slideTitle": "활용 방안과 계획",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 15,
+      "slideTitle": "마무리",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 16,
+      "slideTitle": "지원 환경",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-01_image-01.png",
+      "sha256": "73c267a55e921412185a870845ec3827a7cd6d1569e418456a35e16964545817"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-17_image-02.png",
+      "sha256": "4d7d65ea5c77c33568c5cf31b4299e65dc69087668f49cb8c6c5def5c7fb9fd6"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-17_image-03.jpeg",
+      "sha256": "a0ce15ba858f334d95ab7e5821480e6b38d1dfbbb6b0750247c996299c59c686"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-17_image-04.png",
+      "sha256": "662e1b2e4b984536a71e8810cc0ccd341882bac1c22c244289d9263c04aed442"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-17_image-05.png",
+      "sha256": "d51d2b58acc24c7dc08948e2255298b5e45cf8fbf077e6d73e283d752bd7f544"
+    },
+    {
+      "slide": 17,
+      "slideTitle": "사용 오픈소스",
+      "image": "slide-17_image-06.png",
+      "sha256": "5aace991fb9ecdb8dfccde405c1a8d5fbbe904c63b622c06213f5a28c4a51ee1"
+    }
+  ]
+}

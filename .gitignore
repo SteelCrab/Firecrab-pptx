@@ -1,0 +1,12 @@
+# Track the current presentation package and its management instructions.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/latest
+!/output/
+/output/*
+!/output/Firecrab_3633_제출자료/
+!/output/Firecrab_3633_제출자료/**
+**/.DS_Store
+**/~$*
